@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+int main(void){
+
+if(ransu(0,1)){
+printf("ƒnƒYƒŒ");
+}else{
+printf("‘å“–‚½‚è");
+}
+}
